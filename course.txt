@@ -1,6 +1,3 @@
-CS109 discrete Uzma Bashir
-2 CS123 oop hina
-iqbal 3 CS211 dld
-mamoona idk 2 CS346
-yo 3 help CS1234
-ig uf loj CS777
+CS109 discrete Uzma Bashir2
+CS123 oop hina iqbal 3 
+CS211 dld mamoona idk 2 
